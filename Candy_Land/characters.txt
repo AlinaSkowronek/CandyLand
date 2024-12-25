@@ -1,0 +1,5 @@
+character name|stamina|gold|candies
+JellyBean_Jane|100|50|Breezy Butterscotch,Lucky Licorice,Frosty Fizz,Crimson Crystal
+Toffee_Todd|200|20|Frosty Fizz,Toxic Taffy,Bubblegum Blast,Caramel Comet
+Chocolate_Charlie|50|100|Sparkling Sapphire,Bubblegum Blast,Mystic Marshmallow,Venomous Vortex
+Caramel_Carl|100|50|Mystic Marshmallow,Lucky Licorice,Venomous Vortex,Caramel Comet
